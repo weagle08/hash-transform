@@ -1,0 +1,33 @@
+{
+  "name": "hash-transform",
+  "version": "1.0.0",
+  "description": "allows user to create a hash from an input stream as well as pipe stream to next input",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weagle08/hash-transform.git"
+  },
+  "keywords": [
+    "hash",
+    "hash-stream",
+    "stream-hash",
+    "hash-transform",
+    "transform-stream",
+    "transform-hash"
+  ],
+  "author": "weagle08",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weagle08/hash-transform/issues"
+  },
+  "homepage": "https://github.com/weagle08/hash-transform#readme",
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  }
+}
