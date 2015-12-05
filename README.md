@@ -1,2 +1,2 @@
 # hash-transform
-Hash transform that creates a has of input stream and is able to be piped to another stream input
+Hash transform that creates a hash from an input stream (checksum) and is able to then be piped to another stream input
